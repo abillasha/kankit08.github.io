@@ -9,8 +9,8 @@
 	}
 }
 
-html {
-  height: 100vh;
+body {
+  
   background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 45, 75, 0)), to(rgba(0, 0, 0, 0.6))), url("images/cover.jpeg");
   background-image: linear-gradient(to top, rgba(0, 45, 75, 0), rgba(0, 0, 0, 0.6)), url("pic.jpg");
   background-size: cover;
@@ -18,10 +18,7 @@ html {
   background-position: center center;
 }
 
-body{
-	background-color: #2C3335;
-	font-family: Helvetica, sans-serif;
-}
+
 
 #a{
 	color: #EAF0F1;
